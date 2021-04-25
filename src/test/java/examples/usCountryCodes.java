@@ -10,7 +10,7 @@ import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.Matcher.*;
 import static org.hamcrest.Matchers.hasSize;
 
-public class firstApi {
+public class usCountryCodes {
 //test
     @Test
     public void requestZipCodeAndResponse_Details() {
