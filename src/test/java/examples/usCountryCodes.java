@@ -31,7 +31,7 @@ public class usCountryCodes {
         then().
             assertThat().
                     body("places[0].'place name'", equalTo("Beverly Hills"));
-        //test
+        // test
     }
 
     @Test
